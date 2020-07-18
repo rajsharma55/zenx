@@ -3,3 +3,9 @@ allow system_server vendor_keylayout_file:file r_file_perms;
 allow system_server lirc_device:chr_file rw_file_perms;
 allow system_server sysfs_rtc:file r_file_perms;
 allow system_server touch_sysfs:file r_file_perms;
+allow system_server proc_touchpanel:dir search;
+allow system_server proc_touchpanel:file rw_file_perms;
+allow system_server sysfs_battery_supply:file rw_file_perms;
+
+# Cameras
+allow system_server persist_camera_prop:file { read open };

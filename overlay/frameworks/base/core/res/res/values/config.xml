@@ -356,4 +356,11 @@
 
     <!-- Whether device ignores the RSSNR signal implementation -->
     <bool name="config_ignoreRssnrSignalLevel">true</bool>
+
+<!-- Sets the package name for device parts--> 
+<string 
+    name="configdevicepartspackagename" 
+    translatable="false">com.xiaomi.hub</string>
+    <string name="configdevicepartspackageactivity" translatable="false">com.xiaomi.hub.DeviceSettingsActivity</string>
+
 </resources>
