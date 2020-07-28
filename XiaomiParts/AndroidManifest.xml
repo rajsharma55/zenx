@@ -81,11 +81,6 @@
         </activity>
 
         <service
-            android:name=".DiracService"
-            android:enabled="true"
-            android:stopWithTask="false" />
-
-        <service
             android:name=".XiaomiPartsTile"
             android:enabled="true"
             android:icon="@drawable/qs_xiaomi"
