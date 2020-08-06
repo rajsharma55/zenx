@@ -19,6 +19,18 @@
     <string name="fastcharge_title">Enable USB Fastcharge</string>
     <string name="fastcharge_summary">Charge upto 700mA when connected to a computer via USB 3.0 port</string>
 
+    <!-- Spectrum Profiles -->
+    <string name="spectrum_profile_title">Spectrum</string>
+    <string name="spectrum_title">Spectrum Profiles</string>
+    <string name="spectrum_summary">Choose your Spectrum Profiles</string>
+    <string name="spectrum_dialogTitle">Choose your Spectrum Profiles</string>
+
+    <!-- Values for Spectrum Presets -->
+    <string name="spectrum_performance">Performance</string>
+    <string name="spectrum_battery">Battery</string>
+    <string name="spectrum_gaming">Gaming</string>
+    <string name="spectrum_balance">Balance</string>
+
     <!-- Torch -->
     <string name="torch_brightness_title">Brightness</string>
 
