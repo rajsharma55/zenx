@@ -1,8 +1,8 @@
 [
  {
-   "repository": "android_packages_resources_devicesettings",
-   "target_path": "packages/resources/devicesettings"
-},
+    "repository": "android_vendor_xiaomi_rolex",
+    "target_path": "vendor/xiaomi"
+  },
  {
    "repository": "android_kernel_xiaomi_msm8937",
    "target_path": "kernel/xiaomi/msm8917"
