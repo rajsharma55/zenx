@@ -28,4 +28,6 @@
     <!-- Whether the binned brightness sensor reports a value of 0 on proximity
          near events -->
     <bool name="doze_brightness_sensor_reports_proximity" translatable="false">false</bool>
+<!-- Allow devices to enforce the H265 encoder for screen recordings -->
+	<bool name="config_useNewScreenRecEncoder">false</bool>
 </resources>
